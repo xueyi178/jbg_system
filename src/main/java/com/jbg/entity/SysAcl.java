@@ -6,7 +6,7 @@ import java.util.Date;
 import lombok.Data;
 
 /**
- * 1.权限的实体类
+ * 1.权限的实体类 
  * 项目名称：jbg_system 
  * 类名称：SysAcl
  * 开发者：Lenovo
